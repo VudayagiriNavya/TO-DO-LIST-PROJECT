@@ -9,6 +9,8 @@ A simple web-based To-Do List app using HTML, CSS, and JavaScript.
 - Mark tasks as completed
 - Responsive design
 
+![Screenshot of To-Do List](assets/screenshot.png)
+
 ## How to Run
 1. Clone the repository:
 
