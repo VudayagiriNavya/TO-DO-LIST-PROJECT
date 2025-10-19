@@ -2,7 +2,6 @@
 
 ## Description
 A simple web-based To-Do List app using HTML, CSS, and JavaScript.
-![Screenshot](screenshot.png)
 
 ## Features
 - Add tasks
